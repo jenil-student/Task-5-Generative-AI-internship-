@@ -1,0 +1,7 @@
+streamlit
+numpy
+pillow
+tensorflow>=2.8.0
+torch
+torchvision
+Pillow
